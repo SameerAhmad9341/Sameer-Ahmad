@@ -9,7 +9,7 @@
 <h3 align="center">Aspiring Data Analyst | Salesforce Admin | Python, Machine learning • SQL • Excel • Power BI </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sameer-ahmad-a071a6308">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sameer-ahmad-a071a6308/">LinkedIn</a> •
   <a href="https://portfoliosameerahmad.netlify.app">Portfolio</a> •
   <a href="mailto:shadkhan@934180@gmail.com">Email</a>
 </p>
