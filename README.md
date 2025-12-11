@@ -1,4 +1,4 @@
-# Sameer-Ahmad
+# SameerAhmad9341
     <p align="center">
   <img src="https://git-profile-readme-banner.vercel.app/api/python?username=sameerahmad&txt=Sameer%20Ahmad%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI"
        alt="Sameer Ahmad - Data Analyst Banner" />
